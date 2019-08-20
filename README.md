@@ -1,1 +1,1 @@
-# dynamodb-optimistic-locking-sample
+# Optimistci locking with the DynamoDB Mapper and Spring Boot
