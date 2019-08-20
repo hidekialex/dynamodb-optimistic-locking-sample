@@ -1,0 +1,1 @@
+# dynamodb-optimistic-locking-sample
